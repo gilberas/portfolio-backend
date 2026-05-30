@@ -7,7 +7,7 @@ const projects = [
   },
 
   {
-    title: 'E-Commerce Website',
+    title: 'E-Commerce system',
     description:
       'A modern e-commerce platform with product catalog, shopping cart, secure checkout, and order management dashboard.',
     tech: ['React', 'Laravel', 'MySQL'],
