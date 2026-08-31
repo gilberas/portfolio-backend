@@ -42,23 +42,6 @@ const skills = [
     ],
   },
 
-  // ── Networking ───────────────────────────────────────────────
-  {
-    category: 'Networking',
-    items: [
-      'Network Configuration',
-      'Network Troubleshooting',
-      'TCP/IP',
-      'DNS & DHCP',
-      'VLANs',
-      'Subnetting',
-      'Cisco Packet Tracer',
-      'Network Security Basics',
-      'Firewall Configuration',
-      'Wi-Fi Setup & Management',
-    ],
-  },
-
   // ── Tools & Other ────────────────────────────────────────────
   {
     category: 'Tools & DevOps',
